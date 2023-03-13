@@ -28,5 +28,9 @@ class EasyoopsApplicationTests {
 
 	}
 
+	void method7(){
+
+	}
+
 
 }
