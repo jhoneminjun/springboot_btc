@@ -28,6 +28,7 @@ class EasyoopsApplicationTests {
 	void method7(){
 
 	}
+	상훈바보
 
 
 }
